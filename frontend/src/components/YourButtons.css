@@ -1,0 +1,9 @@
+.YourButtons{
+    margin:auto;
+    background:black;
+    align-items: center;
+    justify-content:center;
+    display: flex;
+    width: 25rem;
+    padding: auto;
+};

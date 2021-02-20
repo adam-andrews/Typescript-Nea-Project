@@ -1,0 +1,24 @@
+.OpponentCard{
+    margin: auto;
+    margin-top: 50px;
+    background-color:blue;
+    display: flex;
+    flex-direction: column;
+    width: 13rem;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.OpponentCard__Avatar{
+    margin: auto;
+    background-color: Blue;
+    flex:0.5;
+}
+
+.OpponentCard__CardContainer{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    background-color: Grey;
+}

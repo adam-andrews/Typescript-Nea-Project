@@ -1,0 +1,12 @@
+.Table {
+    margin: auto;
+    margin-top: 150px;
+    background-color:blue;
+    display: flex;
+    padding:5rem;
+    width: 25rem;
+    justify-content:center;
+    align-items:center;
+    border: 8px solid red;
+    border-radius: 5px;
+  }
